@@ -28,6 +28,8 @@ export const Services = () => {
                             <span className='text-[52px] font-bold text-[#631CD8]'>ALCOA+CCEA</span>
                         </div>
 
+
+
                     </div>
 
                 </div>

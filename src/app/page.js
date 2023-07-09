@@ -8,15 +8,16 @@ import { Services } from './components/Services'
 import { Documents } from './components/Documents'
 
 export default function Home() {
+
   return (
     < >
       <Header />
       <Documents />
-      {/* <Services /> */}
-      {/* <Career /> */}
-      {/* <Contact /> */}
-      {/* <About /> */}
-      {/* <HomePage /> */}
+      <Services />
+      <Career />
+      <Contact />
+      <About />
+      <HomePage />
     </>
   )
 }
